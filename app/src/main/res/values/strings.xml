@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CasugaMcSpenzerLab5</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="location">Philippines</string>
+    <string name="tubbataha_location">808 km</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="puerto_princesa_location">769 km</string>
+</resources>
